@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Support</string>
+    <string name="title_section1">Dates</string>
+    <string name="title_section2">Help</string>
+    <string name="action_add">Add</string>
+    <string name="action_profile">Your Profile</string>
+    <string name="title_activity_create_date">Create or Change a Date</string>
+    <string name="action_save">Save</string>
+    <string name="title_activity_create_profile">Profile</string>
+    <string name="action_edit">Edit</string>
+    <string name="title_activity_profile">Your Profile</string>
+    <string name="fragment_create_date_title_hint">Title of your date</string>
+    <string name="fragment_create_profile_name_hint">Name</string>
+    <string name="fragment_create_profile_email_hint">Email</string>
+    <string name="fragment_date_no_items">No items to show.</string>
+    <string name="fragment_profile_username">User name</string>
+    <string name="fragment_profile_email_address">Email address</string>
+    <string name="fragment_main_header">View our Help Center, create a ticket or manage your existing tickets</string>
+    <string name="fragment_main_btn_knowledge_base">Help&#10;Center</string>
+    <string name="fragment_main_btn_contact_us">Contact&#10;Us</string>
+    <string name="fragment_main_btn_my_tickets">My&#10;Tickets</string>
+    <string name="fragment_main_btn_rate_the_app">Rate&#10;the app</string>
+    <string name="fragment_main_btn_give_feedback">Give&#10;Feedback&#10;</string>
+    <string name="fragment_main_btn_chat">Live&#10;Chat</string>
+    <string name="fragment_profile_invalid_email">Please provide an email address</string>
+
+    <string name="dialog_auth_title">Setup your profile</string>
+    <string name="dialog_auth_positive_btn">Do it now</string>
+    <string name="dialog_auth_negative_btn">Later</string>
+
+    <string name="push_error_contact_zendesk">Failed to contact push server</string>
+    <string name="push_error_obtain_push_id">Failed to obtain push identifier</string>
+    <string name="push_error_device_not_compatible">Your device doesn\'t support push notifications</string>
+
+    <string name="push_notification_fallback_title">Someone replied to your ticket</string>
+
+    <string name="push_date_title">Remember the Date</string>
+
+</resources>

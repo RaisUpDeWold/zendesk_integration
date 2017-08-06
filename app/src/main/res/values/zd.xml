@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zd_url">https://openbusiness.zendesk.com</string>
+    <string name="zd_appid">fb8af2aebe40464aa4b94eff5eb87cda917390dedf77c501</string>
+    <string name="zd_oauth">mobile_sdk_client_7d00f07e840588dc5f9c</string>
+
+    <string name="file_provider_authority">com.zendesk.rememberthedate</string>
+
+    <string name="zopim_account_id">HAYQrPQ4uxbRHQvx2cZEIxj8l0VI9FtH</string>
+</resources>
